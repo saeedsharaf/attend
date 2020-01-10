@@ -1,0 +1,9 @@
+<?php
+$file = fopen('s.txt','r');
+
+while(!feof($line)){
+	$ff = fgets
+}
+
+
+?>
